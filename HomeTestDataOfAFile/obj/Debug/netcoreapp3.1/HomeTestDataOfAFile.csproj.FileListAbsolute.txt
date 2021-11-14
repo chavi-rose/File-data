@@ -1,0 +1,13 @@
+C:\Users\1\Desktop\HomeTestDataOfAFile\bin\Debug\netcoreapp3.1\HomeTestDataOfAFile.exe
+C:\Users\1\Desktop\HomeTestDataOfAFile\bin\Debug\netcoreapp3.1\HomeTestDataOfAFile.deps.json
+C:\Users\1\Desktop\HomeTestDataOfAFile\bin\Debug\netcoreapp3.1\HomeTestDataOfAFile.runtimeconfig.json
+C:\Users\1\Desktop\HomeTestDataOfAFile\bin\Debug\netcoreapp3.1\HomeTestDataOfAFile.runtimeconfig.dev.json
+C:\Users\1\Desktop\HomeTestDataOfAFile\bin\Debug\netcoreapp3.1\HomeTestDataOfAFile.dll
+C:\Users\1\Desktop\HomeTestDataOfAFile\bin\Debug\netcoreapp3.1\HomeTestDataOfAFile.pdb
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.csprojAssemblyReference.cache
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.AssemblyInfo.cs
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.dll
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.pdb
+C:\Users\1\Desktop\HomeTestDataOfAFile\obj\Debug\netcoreapp3.1\HomeTestDataOfAFile.genruntimeconfig.cache
